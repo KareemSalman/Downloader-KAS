@@ -27,6 +27,12 @@ Run the main script:
 Bash
 python main.py
 
+---
+## ⚠️ Known Issues
+- **Restart Button (EXE Mode):** Currently, the "Restart" button may encounter an error in the standalone `.exe` version due to temporary file cleanup by PyInstaller. 
+- **Workaround:** If you need to restart the app, simply close it and open the `.exe` file again manually. 
+- *Note: This feature works perfectly when running the source code directly via Python.*
+
 Developed By: Kareem Salman
 
 WhatsApp: 01097783253
