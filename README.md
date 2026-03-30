@@ -24,9 +24,8 @@ A professional Python-based tool to download videos and playlists from YouTube a
 2. Launch the App:
 Run the main script:
 
-Bash
+bash
 python main.py
-
 ---
 ## ⚠️ Known Issues
 - **Restart Button (EXE Mode):** Currently, the "Restart" button may encounter an error in the standalone `.exe` version due to temporary file cleanup by PyInstaller. 
