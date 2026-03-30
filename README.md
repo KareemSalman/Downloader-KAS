@@ -26,7 +26,7 @@ Run the main script:
 
 Bash
 python main.py
-👨‍💻 Developed By
-Kareem Salman - Facebook: Kareem Salman
 
+Developed By: Kareem Salman
 WhatsApp: 01097783253
+facebook:https://www.facebook.com/Kareem0Salman
